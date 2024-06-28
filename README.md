@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @itsrohit11
+- 👋 Hi, I’m Rohit Jain
 - 👀 I’m interested in creating extraordinary things..
-- 🌱 I’m currently learning Java,C++,Spring, SpringBoot and Arduino
-- 💞️ I’m looking to collaborate on Artificial Intelligence programing and robotic programming..
+- 🌱 I’m currently learning Java,C++,Spring, SpringBoot and Arduino..
+- 💞️ I’m looking to collaborate on Artificial Intelligence programing and robotic programming...
 - 📫 How to reach me via jainrohit6113@gmail.com
 
 <!---
