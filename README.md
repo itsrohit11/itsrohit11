@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rohit Jain
 - 👀 I have solid foundation in backend development using Java + Spring Boot + MySQL/PostgreSQL + API Connectivity
-- Developed Multiple Project that can be viewed in my GitHub Profile
+- 👀 Developed Multiple Project that can be viewed in my GitHub Profile.
 - 🌱 I’m currently learning AI/ML and Robotics
 - 💞️ I’m looking to collaborate on Artificial Intelligence programing and robotic programming...
 - 📫 How to reach me via jainrohit6113@gmail.com
