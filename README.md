@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Rohit Jain
-- 👀 I have solid foundation in backend development using Java + Spring Boot + MySQL/PostgreSQL + API Connectivity
+- 👀 I have solid foundation in backend development using Java + Spring Boot + MySQL/PostgreSQL + API Connectivity.
+- 👀 I have experience working with Python, Flask, and C++.
 - 👀 Developed Multiple Project that can be viewed in my GitHub Profile.
 - 🌱 I’m currently learning AI/ML and Robotics
 - 💞️ I’m looking to collaborate on AI/ML projects and robotics programming...
